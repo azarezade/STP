@@ -4,8 +4,8 @@
 
 STP is a model and inference algorithm of users behaviours in spatio-temporal social networks. This framework is designed for research purpose only.
 ## Features
-* It includes a large scale dataset including the adjacency matrix and information of more than 60000 checkins for 1000 users within a same georaphical area (brasil country).
-* It includes the implementation of our proposed method plus a set of baseline methods to comprare with.
+* It includes a large scale dataset including the adjacency matrix and information of more than 60000 checkins for 1000 users within a same geographical area (brasil country).
+* It includes the implementation of our proposed method plus a set of baseline methods to compare with.
 * A collection of standard evaluation measures for evalution of time and location prediction of diffrent methods
 * A set of m-files for plotting competing models performance.
 
@@ -19,7 +19,7 @@ Please note that this script works only if you perform the *exec_synth.m* with t
 
 
 ## References
-1. Zarezade A., Rabiee H. R., Soltani-Farani A., and Khajenezhad A., “Patchwise Joint Sparse Tracking with Occlusion Detection”, IEEE Transactions on Image Processing (TIP), 2014. [download](http://ieeexplore.ieee.org/document/6873285/)
+1. Zarezade A., Rabiee H. R., Soltani-Farani A., and Khajenezhad A., “Patchwise Joint Sparse Tracking with Occlusion Detection�?, IEEE Transactions on Image Processing (TIP), 2014. [download](http://ieeexplore.ieee.org/document/6873285/)
 2. Soltani-Farani, Ali, Hamid R. Rabiee, and Ali Zarezade. "Collaborating frames: Temporally weighted sparse representation for visual tracking.", IEEE International Conference on Image Processing (ICIP), 2014. [download](http://ieeexplore.ieee.org/document/7025091/)
 3. Bao, Chenglong, et al. "Real time robust l1 tracker using accelerated proximal gradient approach." Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012.
 4. Ross, David A., et al. "Incremental learning for robust visual tracking." International Journal of Computer Vision 77.1-3 (2008): 125-141.

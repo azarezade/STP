@@ -37,8 +37,8 @@ else
     events=events_struct; 
 end
 
-if(unknown_adjancency==1)
-    model.a=ones(size(model.a))
+if(unknown_adjacency==1)
+    model.a=ones(size(model.a));
 end
 
 if(real_data==0)
