@@ -2,7 +2,7 @@
 ![Build Status](https://img.shields.io/teamcity/codebetter/bt428.svg)
 ![License](https://img.shields.io/badge/license-BSD-blue.svg)
 
-STP is a model and inference algorithm of users behaviours in spatio-temporal social networks. This framework is designed for research purpose only.
+STP is a model and inference algorithm of users behaviours in spatio-temporal social networks. This code and dataset can be used for academic purpose only.
 ## Features
 * It includes a large scale dataset including the adjacency matrix and information of more than 60000 checkins for 1000 users within a same geographical area (brasil country).
 * It includes the implementation of our proposed method plus a set of baseline methods to compare with.
