@@ -1,4 +1,4 @@
-%% blah blah
+
 function value = fhess_temporal(vari,data,data_c,data_u,data_u_neighs,data_u_cats,data_u_neighs_cats,model, u,method)
 
 C = model.categories; % number of categories

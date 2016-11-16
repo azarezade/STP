@@ -1,5 +1,5 @@
 %% Intensity of Spatio-Temporal Model
-% blah blah blah
+
 
 function I = stp_intensity_simulation(model, events, t,integ,method)
     events_temp=events;

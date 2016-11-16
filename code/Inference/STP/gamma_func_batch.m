@@ -1,4 +1,4 @@
-%% blah blah blah
+
 function [gamma_value,numerator,denuminator,denuminator_sudo,W_uc ]= gamma_func_batch(data,data_c,data_u,data_u_neighs,data_u_cats,data_u_neighs_cats,model,w,c,l,t,eta_u,a_u,ngbs_u,method,batch_size)%% denuminator_modified and W_uc is applcable when v=0
 
 %% speed consideration we use the code instead of full method name string

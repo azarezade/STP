@@ -1,4 +1,4 @@
-%% blah blah blah
+
 function [gamma_value,numerator,denuminator,denuminator_sudo,W_uc,coeff_vector ]= gamma_func_simulation(data,model,w,c,l,t,eta_u,a_u,ngbs_u,method)%% denuminator_modified and W_uc is applcable when v=0
 
 cats_number=model.categories;

@@ -1,5 +1,5 @@
 %% Simulator of Spatio-Temporal Model
-% blah blah bah
+
 
 function events = stp_simulator(model, t0,quantity,method_time,method_location,events,just_simulation_of_times)
 

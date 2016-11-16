@@ -1,5 +1,5 @@
 %% Model Generator of Spatio-Temporal Model
-% blah blah blah
+
 function model = ModelGenerator(N, C,L, sp, max_mu,max_eta,max_a,max_beta,stationary)
 
 model = struct;

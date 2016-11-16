@@ -4,7 +4,7 @@
 % Copyright by Ali Zarehzadeh and Sina Jafarzadeh 
 % zarezade@ce.sharif.edu, jafarzadeh@ce.sharif.edu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% blah blah blah
+
 
 
 %% create the results folder if not exists
