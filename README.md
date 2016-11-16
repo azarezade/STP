@@ -16,3 +16,4 @@ You can configure model parameters through those files as well. *dataset_final.m
 All the results will be saved in `Result` folder.
 For the edge recovery evaluation of algorithm using the AUC measure on synth data, you need to run *exec_synth_recovery_test.m*. The results will be saved in `Results_unknown_adjacency` folder.
 Please note that this script works only if you perform the *exec_synth.m* with the option of `unknown_adjacency` beforehand. 
+The results are plotted with the code within the `plot` folder. Each m-file is associated with a single experiment results.
