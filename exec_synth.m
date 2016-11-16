@@ -52,7 +52,7 @@ stationary=1;
 %% model creation, data generation and loading ; as we only evalute the proposed method on synthetic data, please don't change to below informations unless it is neccessary
 method_time='temporal_simple';
 method_location='spatial_etk';
-unknown_adjacency=0; 
+unknown_adjacency=0; % 0=the inference knows the true adjacency matrix;1=otherwise(e.g. link recovery experiment)
 
 configure; %% create model and data(if it is synth.)
 load('erdos');
