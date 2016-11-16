@@ -12,7 +12,7 @@ STP is a model and inference algorithm of users behaviours in spatio-temporal so
 ## Execution and Results
 The project is executed successfully on Matlab R2015a. You also may need to install the Optimization toolbox beforehand.
 For reproduce the results on synthetic data, you should run the *exec_synth.m*. In the case of real data, you can use the *exec_real.m*.
-You can configure model parameters through those files as well. *dataset_final.mat* is the main data of the project and consists of more than 60000 events of 1000 brazilian users and the corresponding adjacency matrix.
-All the results will be saved in Result folder.
-For the edge recovery evaluation of algorithm using the AUC measure on synth data, you need to run *exec_synth_recovery_test.m*. The results are in Results_unknown_adjacency folder.
+You can configure model parameters through those files as well. *dataset_final.mat* is the main data of the project and it consists of more than 60000 events of 1000 brazilian users and the corresponding adjacency matrix.
+All the results will be saved in `Result` folder.
+For the edge recovery evaluation of algorithm using the AUC measure on synth data, you need to run *exec_synth_recovery_test.m*. The results will be saved in `Results_unknown_adjacency` folder.
 Please note that this script works only if you perform the *exec_synth.m* with the option of unknown_matrix beforehand. 
