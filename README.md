@@ -6,7 +6,7 @@ STP is the generative model and inference algorithm for the users' behaviours in
 
 ## Features
 * The implementations of our method and the baselines.
-* A large scale dataset including the adjacency matrix and information of more than 60000 checkins for 1000 users in Brazil.
+* A dataset including the adjacency matrix and information of about 60000 checkins of 1000 users in Brazil.
 * A collection of standard evaluation measures for the temporal and spatial predictions
 * m-files for plotting the performance measures.
 
