@@ -2,12 +2,11 @@
 ![Build Status](https://img.shields.io/teamcity/codebetter/bt428.svg)
 ![License](https://img.shields.io/badge/license-BSD-blue.svg)
 
-STP is a model and inference algorithm of users behaviours in spatio-temporal social networks. The code and dataset can be used for academic purpose only.
+STP is the generative model and inference algorithm for the users' behaviours in location-based social networks (LBSN). The MATLAB source codes and datasets can be used only for academic purposes.
 ## Features
-* It includes a large scale dataset including the adjacency matrix and information of more than 60000 checkins for 1000 users within a same geographical area (brasil country).
-* It includes the implementation of our proposed method plus a set of baseline methods to compare with.
-* A collection of standard evaluation measures for evalution of time and location prediction of diffrent methods
-* A set of m-files for plotting competing models performance.
+* It includes a large scale dataset including the adjacency matrix and information of more than 60000 checkins for 1000 users in Brazil.
+* It includes the implementation of our method and the baselines.
+a* A set of m-files for plotting competing models performance.
 
 ## Execution and Results
 The project is executed successfully on Matlab R2015a. You also may need to install the Optimization toolbox beforehand.
