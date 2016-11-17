@@ -3,11 +3,13 @@
 ![License](https://img.shields.io/badge/license-BSD-blue.svg)
 
 STP is the generative model and inference algorithm for the users' behaviours in location-based social networks (LBSN). The MATLAB source codes and datasets can be used only for academic purposes.
+
 ## Features
 * The implementations of our method and the baselines.
 * A large scale dataset including the adjacency matrix and information of more than 60000 checkins for 1000 users in Brazil.
 * A collection of standard evaluation measures for the temporal and spatial predictions
 * m-files for plotting the performance measures.
+
 ## Execution and Results
 The project is executed successfully on Matlab R2015a. You also may need to install the Optimization toolbox beforehand.
 To reproduce the results on synthetic data, run the *exec_synth.m*. For the real data, use the *exec_real.m*.
