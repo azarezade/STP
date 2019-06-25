@@ -2,7 +2,7 @@
 ![Build Status](https://img.shields.io/teamcity/codebetter/bt428.svg)
 ![License](https://img.shields.io/badge/license-BSD-blue.svg)
 
-STP is the generative model and inference algorithm for the users' behaviours in location-based social networks (LBSN). The MATLAB source codes and datasets can be used only for academic purposes. More at project [website] (https://azarezade.github.io/STP/).
+STP is the generative model and inference algorithm for the users' behaviours in location-based social networks (LBSN). The MATLAB source codes and datasets can be used only for academic purposes. More at project [website](https://azarezade.github.io/STP/).
 
 ## Features
 * The implementations of our method and the baselines.
